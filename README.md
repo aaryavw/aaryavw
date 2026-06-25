@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2a1b4e&height=200&section=header&text=Hi,%20I'm%20Aaryav!%20👋&fontSize=65&fontColor=ffffff&fontAlign=50&fontAlignY=43&font=Montserrat" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Hi,%20I'm%20Aaryav!%20👋&fontSize=65&fontColor=ffffff&fontAlign=50&fontAlignY=43&font=Montserrat" alt="Header" />
 </p>
 
 ## 👨‍💻 About Me
@@ -10,8 +10,18 @@
   <img src="https://img.shields.io/badge/%A0%A0%A0%A0%A0%A0%A0%A0Quantum%20Computing%A0%A0%A0%A0%A0%A0%A0%A0-007ACC?style=for-the-badge&logoColor=white" height="50" />
 </p>
 
-- 🌱 **Learning:** Advanced financial models and cryptographic protocols.
-- 💬 **Ask me about:** Python scripting, automation, or building secure applications.
+### 📚 Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/%A0%A0%A0%A0%A0%A0%A0%A0Advanced%20Financial%20Models%A0%A0%A0%A0%A0%A0%A0%A0-007ACC?style=for-the-badge&logoColor=white" height="50" /> 
+  <img src="https://img.shields.io/badge/%A0%A0%A0%A0%A0%A0%A0%A0Cryptographic%20Protocols%A0%A0%A0%A0%A0%A0%A0%A0-007ACC?style=for-the-badge&logoColor=white" height="50" />
+</p>
+
+### 💬 Ask Me About
+<p align="left">
+  <img src="https://img.shields.io/badge/%A0%A0%A0%A0%A0%A0%A0%A0Python%20Scripting%A0%A0%A0%A0%A0%A0%A0%A0-007ACC?style=for-the-badge&logoColor=white" height="50" /> 
+  <img src="https://img.shields.io/badge/%A0%A0%A0%A0%A0%A0%A0%A0Automation%A0%A0%A0%A0%A0%A0%A0%A0-007ACC?style=for-the-badge&logoColor=white" height="50" /> 
+  <img src="https://img.shields.io/badge/%A0%A0%A0%A0%A0%A0%A0%A0Secure%20Applications%A0%A0%A0%A0%A0%A0%A0%A0-007ACC?style=for-the-badge&logoColor=white" height="50" />
+</p>
 
 ---
 
@@ -33,5 +43,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryavw&theme=purple_official" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryavw&theme=purple_official&font=Montserrat" alt="GitHub Streak" width="97%" />
 </p>
