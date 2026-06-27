@@ -5,7 +5,7 @@
 ## 👨‍💻 Profile
 
 <p align="left">
-  <img src="https://img.shields.io/badge/%A0%A0%A0%A0%A0%A0%A0%A0Machine%20Learning%20for%20Finance%A0%A0%A0%A0%A0%A0%A0%A0-007ACC?style=for-the-badge&logoColor=white" height="50" /> 
+  <img src="https://img.shields.io/badge/%A0%A0%A0%A0%A0%A0%A0%A0Machine%20Learning%20%A0%A0%A0%A0%A0%A0%A0%A0-007ACC?style=for-the-badge&logoColor=white" height="50" /> 
   <img src="https://img.shields.io/badge/%A0%A0%A0%A0%A0%A0%A0%A0Security%20Automation%A0%A0%A0%A0%A0%A0%A0%A0-007ACC?style=for-the-badge&logoColor=white" height="50" /> 
   <img src="https://img.shields.io/badge/%A0%A0%A0%A0%A0%A0%A0%A0Quantum%20Computing%A0%A0%A0%A0%A0%A0%A0%A0-007ACC?style=for-the-badge&logoColor=white" height="50" />
 </p>
@@ -31,7 +31,8 @@
 <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=openjdk&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" height="40" />
 
 ### Developer Tools
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/GitHub-007ACC?style=for-the-badge&logo=github&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=cursor&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/Vercel-007ACC?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/Git-007ACC?style=for-the-badge&logo=git&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/GitHub-007ACC?style=for-the-badge&logo=github&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=cursor&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/JetBrains-007ACC?style=for-the-badge&logo=jetbrains&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/Vercel-007ACC?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
+
 
 ---
 
